@@ -1,0 +1,10 @@
+<xml>
+  <book>
+    <title>An Adventure</title>
+    <pages>100</pages>
+  </book>
+  <book>
+    <title>An Adventure once again</title>
+    <pages>200</pages>
+  </book>
+</xml>
